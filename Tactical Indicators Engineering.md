@@ -22,11 +22,11 @@ The higher security defenders move up the pyramid, the more disruption they caus
 
 ```text
                 TTPs
-        Tools
-    Network / Host Artifacts
- Domain Names
-    IP Addresses
-        Hash Values
+                Tools
+        Network / Host Artifacts
+             Domain Names
+             IP Addresses
+              Hash Values
 ```
 
 Higher levels of the pyramid represent indicators that are increasingly difficult for attackers to modify.
